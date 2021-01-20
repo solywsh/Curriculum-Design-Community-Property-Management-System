@@ -1,0 +1,30 @@
+﻿  doc.cpp
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(20,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(43,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(63,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(69,38): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(84,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(152,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(177,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(182,38): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(197,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(203,36): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(218,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(237,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(257,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(297,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(353,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(381,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(402,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(409,33): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(425,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(449,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(483,13): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+  doc.h
+  menu.cpp
+  正在生成代码...
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\doc.cpp(496): warning C4172: 返回局部变量或临时变量的地址: passoword_p
+Debug\doc.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+doc.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall owner::owner(void)" (??0owner@@QAE@XZ)，函数 "public: bool __thiscall doc::fee_real_all(class fee &)" (?fee_real_all@doc@@QAE_NAAVfee@@@Z) 中引用了该符号
+menu.obj : error LNK2001: 无法解析的外部符号 "public: __thiscall owner::owner(void)" (??0owner@@QAE@XZ)
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\Debug\小区物业管理系统.exe : fatal error LNK1120: 1 个无法解析的外部命令

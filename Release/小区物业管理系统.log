@@ -1,0 +1,39 @@
+﻿  doc.h
+  main.cpp
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(6,16): error C2011: “sex_error”:“class”类型重定义
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(6): message : 参见“sex_error”的声明
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(8,13): error C2011: “owner”:“class”类型重定义
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(8): message : 参见“owner”的声明
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(25,13): error C2027: 使用了未定义类型“owner”
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(8): message : 参见“owner”的声明
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(33,22): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(39,5): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(39,17): error C2065: “male”: 未声明的标识符
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(43,6): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(43,18): error C2065: “female”: 未声明的标识符
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(45,25): error C2027: 使用了未定义类型“sex_error”
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(6): message : 参见“sex_error”的声明
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(47,3): error C2687: “sex_error”: 异常声明不能为“void”，也不能表示不完整类型或指向不完整类型的指针或引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(47,3): error C2316: “sex_error”: 无法作为析构函数捕获，或者复制构造函数不可访问或已删除，或同时出现这两种情况
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(52,30): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(54,16): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(56,22): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(58,15): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(60,2): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(60,13): error C3861: “owner_set_id”: 找不到标识符
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(62,2): error C3861: “owner_print”: 找不到标识符
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(65,12): error C2027: 使用了未定义类型“owner”
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(8): message : 参见“owner”的声明
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(66,13): error C2065: “room_number”: 未声明的标识符
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(66,38): error C2440: “初始化”: 无法从“overloaded-function”转换为“int”
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(66,31): message : 上下文不允许消除重载函数的歧义
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(75,13): error C2027: 使用了未定义类型“owner”
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(8): message : 参见“owner”的声明
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(76,22): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(77,6): error C2065: “sex”: 未声明的标识符
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(82,23): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(83,22): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(83,41): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(84,22): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\owner.h(85,20): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\main.cpp(11,11): error C2079: “owner_object”使用未定义的 class“owner”

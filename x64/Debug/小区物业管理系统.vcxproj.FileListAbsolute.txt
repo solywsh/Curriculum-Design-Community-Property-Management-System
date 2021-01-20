@@ -1,0 +1,6 @@
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\x64\Debug\admin_infor.dat
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\x64\Debug\小区物业管理系统.exe
+F:\VS DATA\solywsh\study\cpp\小区物业管理系统\x64\Debug\小区物业管理系统.pdb
+D:\date\VS\study\小区物业管理系统\x64\Debug\admin_infor.dat
+D:\date\VS\study\小区物业管理系统\x64\Debug\小区物业管理系统.exe
+D:\date\VS\study\小区物业管理系统\x64\Debug\小区物业管理系统.pdb
